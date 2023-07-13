@@ -1,0 +1,47 @@
+.left-bar1{
+    gap: 5px;
+    height:50% ;
+    
+    
+}
+.pic1, .pic{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: white;
+    gap: 15px;
+    margin-left: 5px;
+    margin-top: -10px;
+    
+}
+img {
+   width: 30px;
+    margin-top: 20px;
+    height: 30px;
+    
+    
+}
+p{
+    margin-top: 30px;
+
+}
+
+.pic{
+    border-radius: 48px;
+}
+input{
+    width: 307px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #333333;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+   
+}
+hr{
+    width: 90%;
+    margin-left: 10px;
+    margin-bottom: 7px;
+}

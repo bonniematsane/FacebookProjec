@@ -1,0 +1,35 @@
+.container{
+    height: 100vh;
+    background-color: #18191A;
+    display: flex;
+    flex-direction: column;
+
+}
+.main{
+    display: flex;
+    flex-direction: row;
+height: 100%;
+}
+.toolbar{
+height: 10%;
+background-color:#333333 ;
+}
+
+.lef-side{
+
+width: 30%;
+
+}
+.middle-side{
+
+width: 40%;
+height: 100%;
+
+}
+.right-side{
+
+width: 30%;
+
+}
+    
+  

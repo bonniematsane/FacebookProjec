@@ -1,0 +1,22 @@
+.profile-status{
+    
+    height:20% ;
+}
+img{
+    height: 100%;
+    width: 150px;
+    margin-top: 15px;
+}
+.profile-status{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    width: 600px;
+    border-radius: 10px;
+    height: 135px;
+}

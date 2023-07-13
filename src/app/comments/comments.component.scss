@@ -1,0 +1,56 @@
+.comments{
+    background-color:#333333 ;
+    height:15% ;
+    border-radius: 8px;
+    margin-top: 28px;
+    
+}
+img{
+    width: 40px;
+   margin-top: 18px;
+   border-radius: 48px;
+   height: 30px;
+     
+    }
+
+    
+    .search-box{
+        display: flex;
+        flex-direction: row;
+        margin-top: 15px;
+     
+    }
+    input{
+        margin-top: 15px;
+        width: 520px;
+        border-radius: 20px;
+        height: 22px;
+        color: gray;
+        margin-left: 10px;
+        background-color: #333333;
+    }
+    .com, p{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 5%;
+     
+    }
+    .line{
+        display: flex;
+        flex-direction: column;
+        gap: 7%;
+    }
+    p{
+        color: white;
+        margin-top: 5px;
+    }
+   hr{
+margin-right: 5px;
+margin-left: -35px;
+background-color: #333333;
+   }
+   i{
+    font-size: 20px;
+   }
