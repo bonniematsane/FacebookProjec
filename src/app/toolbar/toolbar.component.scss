@@ -21,7 +21,7 @@
     flex-direction: row;
     text-align: center;
     width: 33.33%;
-    margin-top: 7px;
+  
     height: 100%;
 }  
 
@@ -40,6 +40,7 @@ input{
 
 img{
     margin-top: 5px;
+    margin-right: 10px;
     
 }
 .icons{
@@ -48,9 +49,11 @@ img{
     text-align: center;
     color: white;
     width: 33.3%;
-    gap: 35%;
+    gap: 16%;
     height:100%;
-    margin-right: 30%;
+    margin-right: 11%;
+    margin-top: 2px;
+   
    
 }
 
@@ -64,9 +67,10 @@ img{
     display: flex;
     flex-direction: row;
     width: 33.3%;
-  margin-top: 10px;
+  
     height: 100%;
 }
 p{
     margin-top: 5%;
+    margin-right: 17px;
 }
