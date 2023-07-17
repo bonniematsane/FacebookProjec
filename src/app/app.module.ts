@@ -37,7 +37,8 @@ import { MoreComponent } from './more/more.component';
     BirthdaysComponent,
     ContactsComponent,
     SeeComponent,
-    MoreComponent
+    MoreComponent,
+    
   ],
   imports: [
     BrowserModule,

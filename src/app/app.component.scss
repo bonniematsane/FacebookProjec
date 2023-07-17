@@ -8,17 +8,21 @@
 .main{
     display: flex;
     flex-direction: row;
-height: 100%;
+    height: 100%;
 }
 .toolbar{
 height: 10%;
-background-color:#333333 ;
+width: 100%;
+display: flex;
+flex-direction: row;
+background-color:#242527 ;
+color: aliceblue;
 }
 
 .lef-side{
 
 width: 30%;
-
+height: 100%;
 }
 .middle-side{
 
@@ -27,7 +31,7 @@ height: 100%;
 
 }
 .right-side{
-
+height: 100%;
 width: 30%;
 
 }
